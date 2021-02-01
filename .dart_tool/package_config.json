@@ -92,6 +92,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "english_words",
+      "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/english_words-3.1.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.22"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0-nullsafety.3",
       "packageUri": "lib/",
@@ -344,7 +350,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-02-01T03:05:08.841165Z",
+  "generated": "2021-02-01T03:40:21.446598Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-133.7.beta"
 }
